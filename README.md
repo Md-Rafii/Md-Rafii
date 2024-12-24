@@ -4,7 +4,7 @@
 I'm a professional Android app developer with a passion for creating innovative and user-friendly mobile applications. With extensive experience in Java and Android Studio, I specialize in developing efficient and robust apps that provide a seamless user experience.
 
 ### Skills
-- **Programming Languages:** Java, PHP
+- **Programming Languages:** Java, PHP, AWS
 - **Mobile Development:** Android Studio, XML
 - **Version Control:** Git, GitHub
 - **Testing:** JUnit, Espresso
